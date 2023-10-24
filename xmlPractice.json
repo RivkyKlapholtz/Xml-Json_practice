@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chabadHousesInformation>
+    <rabbiOfBeitChabad>
+        <firstName>Moshe</firstName>
+        <lastName>Levi</lastName>
+		<age>65</age>
+        <country>Israel</country>
+        <address>12 Rabbi Street, Jerusalem</address>
+        <familyDetails>
+            <relative>
+                <firstName>David</firstName>
+                <age>40</age>
+                <address>25 Torah Avenue, Jerusalem</address>
+                <typeOfRelationship>Brother</typeOfRelationship>
+                <phoneNumbers>
+                    <phoneNumber>055-666-7777</phoneNumber>
+                    <phoneNumber>054-898-1000</phoneNumber>
+                    <phoneNumber>058-222-3333</phoneNumber>
+                </phoneNumbers>
+            </relative>
+            <relative>
+                <firstName>Rachel</firstName>
+                <age>35</age>
+                <address>8 Synagogue Road, Tel Aviv</address>
+                <typeOfRelationship>Sister</typeOfRelationship>
+                <phoneNumbers>
+                    <phoneNumber>055-555-7575</phoneNumber>
+                    <phoneNumber>054-121-6666</phoneNumber>
+                </phoneNumbers>
+            </relative>
+            <relative>
+                <firstName>Avraham</firstName>
+                <age>45</age>
+                <address>3 Mitzvah Lane, Haifa</address>
+                <typeOfRelationship>Cousin</typeOfRelationship>
+                <phoneNumbers>
+                    <phoneNumber>058-939-4545</phoneNumber>
+                    <phoneNumber>054-888-7878</phoneNumber>
+                </phoneNumbers>
+            </relative>
+        </familyDetails>
+    </rabbiOfBeitChabad>
+</chabadHousesInformation>
