@@ -1,0 +1,36 @@
+{
+    "news": [
+        {
+            "headline": "New Research Reveals Surprising Health Benefits of Chocolate",
+            "content": "A recent study suggests that dark chocolate can improve heart health and reduce stress levels. Learn more about the delicious findings.",
+            "author": "Dr. Emily Smith",
+            "category": "Health",
+            "timestamp_arrival_system": "2023-10-22T08:30:00Z",
+            "timestamp_arrival_news": "2023-10-22T09:15:00Z"
+        },
+        {
+            "headline": "Local School's Robotics Team Wins International Competition",
+            "content": "The young tech prodigies from Johnsonville High School outshone competitors from around the world with their innovative robot design.",
+            "author": "Jennifer Lewis",
+            "category": "Education",
+            "timestamp_arrival_system": "2023-10-22T10:00:00Z",
+            "timestamp_arrival_news": "2023-10-22T10:45:00Z"
+        },
+        {
+            "headline": "Legendary Musician Announces Farewell World Tour",
+            "content": "After a career spanning decades, iconic artist Jonathan Rivers is set to go on a final tour, promising unforgettable performances.",
+            "author": "Michael Anderson",
+            "category": "Entertainment",
+            "timestamp_arrival_system": "2023-10-22T11:30:00Z",
+            "timestamp_arrival_news": "2023-10-22T12:15:00Z"
+        },
+        {
+            "headline": "Groundbreaking Scientific Discovery in Space Exploration",
+            "content": "Scientists aboard the ISS have made an astounding discovery that could revolutionize our understanding of the universe.",
+            "author": "Dr. Sarah Johnson",
+            "category": "Science",
+            "timestamp_arrival_system": "2023-10-22T14:00:00Z",
+            "timestamp_arrival_news": "2023-10-22T14:45:00Z"
+        }
+    ]
+}
