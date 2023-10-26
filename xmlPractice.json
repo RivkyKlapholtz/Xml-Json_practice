@@ -4,13 +4,20 @@
         <firstName>Moshe</firstName>
         <lastName>Levi</lastName>
 		<age>65</age>
-        <country>Israel</country>
-        <address>12 Rabbi Street, Jerusalem</address>
+        <address>
+		<country>Israel</country>
+		<city>Jerusalem</city>
+		<street>12 Rabbi Street</street>
+	</address>
         <familyDetails>
             <relative>
                 <firstName>David</firstName>
                 <age>40</age>
-                <address>25 Torah Avenue, Jerusalem</address>
+		<address>
+			<country>Israel</country>
+			<city>Jerusalem</city>
+			<street>25 Torah Avenue</street>
+		</address>
                 <typeOfRelationship>Brother</typeOfRelationship>
                 <phoneNumbers>
                     <phoneNumber>055-666-7777</phoneNumber>
@@ -21,7 +28,11 @@
             <relative>
                 <firstName>Rachel</firstName>
                 <age>35</age>
-                <address>8 Synagogue Road, Tel Aviv</address>
+		<address>
+			<country>Israel</country>
+			<city>Tel Aviv</city>
+			<street>8 Synagogue Road</street>
+		</address>
                 <typeOfRelationship>Sister</typeOfRelationship>
                 <phoneNumbers>
                     <phoneNumber>055-555-7575</phoneNumber>
@@ -31,7 +42,11 @@
             <relative>
                 <firstName>Avraham</firstName>
                 <age>45</age>
-                <address>3 Mitzvah Lane, Haifa</address>
+		<address>
+			<country>Israel</country>
+			<city>Haifa</city>
+			<street>3 Mitzvah Lane</street>
+		</address>
                 <typeOfRelationship>Cousin</typeOfRelationship>
                 <phoneNumbers>
                     <phoneNumber>058-939-4545</phoneNumber>
